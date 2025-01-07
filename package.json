@@ -2,7 +2,7 @@
   "name": "blockblast",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/AbhirajkarBajpai/Block_Blast.git",
+  "homepage": "https://AbhirajkarBajpai.github.io/Block_Blast",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
