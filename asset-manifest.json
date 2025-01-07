@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AbhirajkarBajpai/Block_Blast.git/static/css/main.b8f76dc0.css",
+    "main.js": "/AbhirajkarBajpai/Block_Blast.git/static/js/main.2e92967c.js",
+    "static/js/453.01cbb336.chunk.js": "/AbhirajkarBajpai/Block_Blast.git/static/js/453.01cbb336.chunk.js",
+    "index.html": "/AbhirajkarBajpai/Block_Blast.git/index.html",
+    "main.b8f76dc0.css.map": "/AbhirajkarBajpai/Block_Blast.git/static/css/main.b8f76dc0.css.map",
+    "main.2e92967c.js.map": "/AbhirajkarBajpai/Block_Blast.git/static/js/main.2e92967c.js.map",
+    "453.01cbb336.chunk.js.map": "/AbhirajkarBajpai/Block_Blast.git/static/js/453.01cbb336.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8f76dc0.css",
+    "static/js/main.2e92967c.js"
+  ]
+}
